@@ -1,0 +1,1 @@
+create table user(id int not null auto_increment primary key,name varchar(45), report varchar(1000), pincode int, phone varchar(45));
